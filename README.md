@@ -1,5 +1,3 @@
-# WoT_0.9.22_Map_observer
-
 This mode allows you to explore any map in version 0.9.22 with any tank of your choice.
 
 
